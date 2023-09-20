@@ -1,0 +1,6 @@
+*.db
+*.log
+*.gpg
+*.gpeg
+target
+bin
